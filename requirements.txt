@@ -1,0 +1,24 @@
+# Core Dependencies
+flask==3.0.0
+pymongo==4.6.1
+python-dotenv==1.0.0
+
+# News Fetching
+requests==2.31.0
+newspaper3k==0.2.8
+lxml==4.9.3
+
+# AI Models
+transformers==4.36.2
+torch==2.1.2
+sentencepiece==0.1.99
+
+# Text-to-Speech
+TTS==0.22.0
+
+# Additional utilities
+numpy==1.26.2
+soundfile==0.12.1
+
+# Optional (for better performance)
+accelerate==0.25.0
